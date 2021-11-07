@@ -1,11 +1,11 @@
 <h1 align="center">I'm develpoerZok</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on [masjidlaruz.netlify.app](masjidlaruz.netlify.app)
-
+<!-- - 🔭 I’m currently working on [masjidlaruz.netlify.app](masjidlaruz.netlify.app)
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/dveloperzok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dveloperzok" height="30" width="40" /></a>
+<a href="https://instagram.com/developerzok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developerzok" height="30" width="40" /></a>
 <a href="https://t.me/developerZok" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Zokirjon_sotvoldiyev" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
